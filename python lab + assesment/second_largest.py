@@ -14,3 +14,5 @@ for num in nums:
 print("Second Largest: - second_largest.py:14", second)
 
 
+'''output'''
+Second Largest: 45
